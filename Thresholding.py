@@ -1,11 +1,11 @@
-# In[1]:#NAME : 
-        #REF NO : 
+# In[1]:#NAME : Abishek Xavier A
+        #REF NO : 212222230004
 
 
 # In[2]:# Load the necessary packages
 
 # Read the Image and convert to grayscale
-image=cv2.imread(".jpg")
+image=cv2.imread("luffy.png")
 image1=cv2.cvtColor(image,cv2.)
 
 
